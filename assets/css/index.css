@@ -1,0 +1,62 @@
+ i:hover   {   
+   color: crimson;
+   
+   }
+
+.fontsize {
+
+	 font-weight: bold;
+}
+
+
+.parallax {
+   
+    background-image: url("../images/i3.jpg");
+    min-height: 200px;    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.imageAndText {
+	position: absolute;
+} 
+.imageAndText .col{
+	position: absolute;
+    top:150px; 
+    left: 200px;
+   
+
+}
+.imageAndText .col p{
+
+text-align: justify;
+
+}
+
+.a2 h1{
+ 
+color: white;
+font-size: 45px;
+}
+
+.a2 p{
+	color: white;
+	font-size: 20px;
+
+}
+
+
+ p{
+
+	text-align: center;
+}
+
+.adjust {
+
+	padding-right: 100px;
+
+}
