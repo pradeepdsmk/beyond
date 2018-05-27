@@ -15,7 +15,7 @@ $(function () {
 });
 
 
-function paintTheChart(response) {    
+function paintTheChart(response) {
     var data = JSON.parse(response);
     var ctx = document.getElementById('myChart').getContext('2d');
     var myPieChart = new Chart(ctx, {
@@ -25,8 +25,8 @@ function paintTheChart(response) {
             datasets: [{
                     data: data,
                     backgroundColor: [
-                        'rgba(255, 99, 132, 0.2)',
-                        'rgba(54, 162, 235, 0.2)'                        
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 99, 132, 0.2)'
                     ]
                 }]
         },
