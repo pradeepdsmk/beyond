@@ -119,20 +119,21 @@
 
  <div class="container-fluid">
   <h1><center>Our Services </center></h1>
-
+  <br><br><br>
+  
 
   <div class="row">
 <center>
 
-    <div class="col-md-4">
+    <div class="col-md-4 adjust">
 
       <div class="col-md-2">
         <img src="assets/images/s1.jpg" width="100px"  height="auto">
       </div>
 
-      <div class="col-md-2 adjust">
+      <div class="col-md-2">
         <p>
-          ljfc;ivho;reiverigveighthgeirohighoiwrhfoiweohfw
+          ljfcjbkjbioliolhiiverigveighthgeirohighoiwrhfoiweohfw
         </p>
       </div>
 
@@ -142,31 +143,33 @@
 
 
 
-<div class="col-md-4">
+<div class="col-md-4 adjust">
 
-      <div class="col-md-2">
+      <div class="col-md-2 ">
         <img src="assets/images/s2.png" width="100px"  height="auto">
       </div>
 
-      <div class="col-md-2 adjust">
+      <div class="col-md-2 ">
         <p>
           ljfc;ivveighthgeirohighoiwrhfoiweohfwerp
         </p>
       </div>
 
 
-    </div><div class="col-md-4">
+    </div>
+    
+    <div class="col-md-4 adjust">
 
-      <div class="col-md-2">
+      <div class="col-md-2 ">
         <img src="assets/images/s3.jpg" width="130px"  height="auto">
       </div>
 
-      <div class="col-md-2 adjust">
+      <div class="col-md-2 ">
         <p>
           ljfc;ivho;reiverigveighthgeirohighoiwrhfoiweohfw
         </p>
       </div>
-
+    </div>
     </center>
   </div>
  </div>
